@@ -1,0 +1,1 @@
+The new buzz about quantum computing really intreguied me so I thought I'd check it out. This repository is a tracker of the progress of my learning. For now, I am starting with a simple project, hope to build more complex ones soon.
